@@ -1,6 +1,5 @@
 <h1 align="center">Hello, I'm André Monteiro <a href="https://twitter.com/mastardy1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mastardy1" height="30" width="40" /></a></h1> 
-<h3 align="center">I'm on my second year of [Game Design at IPB](http://djd.esact.ipb.pt/)</h3>
-
+- <img src="http://193.136.194.11/wp-content/uploads/2018/05/30072964_967376346771057_5910448746691077950_o.png" alt="djd" width"30" height="30"/>I'm on my second year of [Game Design at IPB](http://djd.esact.ipb.pt/)
 - 🔭 I’m currently working on my computer graphics course unit's [Final Project](https://github.com/GelaPT/ComputerGraphicsFinalProject)
 
 <h3 align="left">Languages and Tools:</h3>
