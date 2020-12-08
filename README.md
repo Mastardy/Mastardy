@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm André Monteiro <a href="https://twitter.com/mastardy1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mastardy1" height="30" width="40" /></a></h1> 
-<h3 align="center">I'm on my second year of Game Design at IPB</h3>
+<h3 align="center">I'm on my second year of [Game Design at IPB](http://djd.esact.ipb.pt/)</h3>
 
 - 🔭 I’m currently working on my computer graphics course unit's [Final Project](https://github.com/GelaPT/ComputerGraphicsFinalProject)
 
