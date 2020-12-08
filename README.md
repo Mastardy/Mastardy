@@ -1,9 +1,9 @@
 <h1 align="center">Hello, I'm André Monteiro</h1>
-<h3 align="center">I'm currently on my second year of Game Design at IPB</h3>
+<h3 align="center">I'm on my second year of Game Design at IPB</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gelapt&label=Profile%20views&color=0e75b6&style=flat" alt="gelapt" /> </p>
 
-- 🔭 I’m working on my computer graphics course unit's [<Final Project>](https://github.com/GelaPT/ComputerGraphicsFinalProject)
+- 🔭 I’m currently working on my computer graphics course unit's [Final Project](https://github.com/GelaPT/ComputerGraphicsFinalProject)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
