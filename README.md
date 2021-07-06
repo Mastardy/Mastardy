@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm André <a href="https://twitter.com/mastardy1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mastardy1" height="30" width="40" /></a></h1> 
 
-- I'm on my second year of [Game Design at IPB](http://djd.esact.ipb.pt/en/home/)<br>
+- I'm on my third year of [Game Design at IPB](http://djd.esact.ipb.pt/en/home/)<br>
 - Check out my [itch.io](https://gelapt.itch.io/)!
 
 <h3 align="left">Languages and Tools:</h3>
