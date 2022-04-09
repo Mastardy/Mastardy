@@ -13,7 +13,7 @@
 <img src="https://www.blondiebliss.co.ke/wp-content/uploads/2020/02/vertical-black-line-png-18.png" width="30" height="40">
 <a href="https://www.python.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/> </a>
 <img src="https://www.blondiebliss.co.ke/wp-content/uploads/2020/02/vertical-black-line-png-18.png" width="30" height="40">
-<a href="http://squirrel-lang.org" target="_blank"> <img src="http://squirrel-lang.org/images/simple_nut.png" alt="squirrel" width="40" height="40"/> </a> | 
+<a href="http://squirrel-lang.org" target="_blank"> <img src="http://squirrel-lang.org/images/simple_nut.png" alt="squirrel" width="40" height="40"/> </a>
 </p>
 
 <h3 align="left">Tools:</h3>
