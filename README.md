@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm André <a href="https://twitter.com/mastardy1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mastardy1" height="30" width="40" /></a></h1> 
 
-- I'm a game developer focusing on the Programming side of stuff<br>
+- I'm a game developer focused on the Programming side of it<br>
 - Check out my [itch.io](https://gelapt.itch.io/) where I post my games!
 
 <h3 align="left">Languages:</h3>
