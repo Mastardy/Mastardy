@@ -9,6 +9,7 @@
 <img src="https://www.blondiebliss.co.ke/wp-content/uploads/2020/02/vertical-black-line-png-18.png" width="30" height="40">
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" alt="cplusplus" width="40" height="40"/> </a>
 <img src="https://www.blondiebliss.co.ke/wp-content/uploads/2020/02/vertical-black-line-png-18.png" width="30" height="40">
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/640px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.lua.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" alt="lua" width="40" height="40"/> </a>
 <img src="https://www.blondiebliss.co.ke/wp-content/uploads/2020/02/vertical-black-line-png-18.png" width="30" height="40">
 <a href="https://www.python.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/> </a>
