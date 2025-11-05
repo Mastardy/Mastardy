@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm André <a href="https://twitter.com/mastardy1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mastardy1" height="30" width="40" /></a></h1> 
 
-- I'm a Game Developer on [Shadow Profile](https://shadowprofile.pt/)
+- I'm a Software Developer on [EDIGMA](https://edigma.com/)
 - Check out my [itch.io](https://gelapt.itch.io/) and my [portfolio](https://mastardy.github.io/)!
 
 <h3 align="left">Languages:</h3>
